@@ -1,0 +1,54 @@
+/* */ - adicina comentários
+
+<h1></h1>
+<h2></h2>
+.
+.
+.
+<h6></h6> - Títulos
+
+<p></p> - parágrafo
+
+<hr> - adiciona uma linha embaixo do último texto
+
+<br> - quebrar um texto no local específico da tag, o texto à frente da texto passa para a linha de baixo.
+
+<!-- --> - comentário
+
+<img src="exemplo_imagem.png" alt="Exemplo Imagem"> (dentro de src pode ser colocado também a url da imagem.
+
+<address></address>
+
+<strong></strong> colocar o termo em destaque (ficará em negrito)
+
+<em></em> colocar o termo selecionado em ênfase (ficará em itálico)
+
+<mark></mark> texto fica destacado estilo marca texto
+
+<small></small> deixa o texto selecionado menor
+
+<del></del> texto que deve ser desconsiderado pelo leitor
+
+<sub></sub> 2 do H2O
+
+<sup></sub> 2 do x^2
+
+<code></code> mostrar que o texto é um código-fonte
+
+<pre></pre> - manter a formatação conforme digitado
+
+<q></q> exibir o texto conforme for uma citação
+
+<ol></ol> - listas ordenadas (pode ter os parâmetros type (1, a, A, i, I) e start)
+
+<ul></ul> - listas não ordenadas (type (disc, circle, square))
+
+<li></li> - item de uma lista (</li> é opcional)
+
+<a href="https://..." target="_blank" rel="external"></a> Adiciona um link ao texto, com esse target o link será aberto em outra página e o rel diz que é uma página externa.
+
+<picture></picture> adiciona imagem mas permite a adição de vários <source> para a mesma figura
+
+<audio></audio>adiciona arquivos de áudio
+
+<video></video> adiciona videos.
